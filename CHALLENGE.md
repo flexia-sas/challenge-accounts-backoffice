@@ -6,8 +6,8 @@ En una call posterior vamos a charlar sobre el challenge por lo que es recomenda
 *IMPORTANTE*: No es necesario enviar la resolución, vamos a estar analizándola en la próxima call que hagamos.
 
 Consignas obligatorias:
-1 - Analizar el código y completar la info faltante en el README.md (Bloques de texto "[Completar]")
-2 - Modificar el código para resolver los tests que fallan.
+- Analizar el código y completar la info faltante en el README.md (Bloques de texto "[Completar]")
+- Modificar el código para resolver los tests que fallan.
 
 Consignas opcionales:
-3 - Definir una o más funcionalidades en el listado de "Requerimientos a futuro" que estaría bueno incorporar a la plataforma.
+- Definir una o más funcionalidades en el listado de "Requerimientos a futuro" que estaría bueno incorporar a la plataforma.
